@@ -3,7 +3,7 @@
 #include "Delay.h"
 #include "OLED.h"
 #include "MPU6050.h"
-
+ 
 uint8_t ID;
 int16_t AX, AY, AZ, GX, GY, GZ;
 
